@@ -2,17 +2,42 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Portal_Controller : MonoBehaviour
+public class Portal_Controller
 {
-    // Start is called before the first frame update
-    void Start()
+    public void Update()
     {
-        
+        DestroyPortal();
     }
 
-    // Update is called once per frame
-    void Update()
+    public void PortalEnter(GameObject alien)
     {
-        
+        if (Portal_MVC.Database.portalHP > 0)
+        {
+            Debug.Log("Alien entered! " + Portal_MVC.Database.portalHP);
+            Portal_MVC.Database.portalHP--;
+            alien.SetActive(false);
+            ScoreSystem.Instance.onBuildingCollide?.Invoke();
+        }
+    }
+
+    private void DestroyPortal()
+    {
+        if(Portal_MVC.Database.portalHP <= 0)
+        {
+            //Portal_MVC.Destroy(Portal_MVC.Instance);
+            Portal_MVC.Database.PortalGO.SetActive(false);
+        }
+    }
+
+    public bool IsPortalDestroyed()
+    {
+        if(Portal_MVC.Database.portalHP <= 0)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 }

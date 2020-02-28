@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/GP_TEST_BULLETS.unity
+- path: Assets/Scenes/GP_TUTORIAL.unity
   isLoaded: 1
   isActive: 1
