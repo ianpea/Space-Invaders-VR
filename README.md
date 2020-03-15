@@ -88,7 +88,7 @@ If there are any bullets close to you, the game will prompt a *red* alert and te
 <img src="/Images/Instructions.jpg">
           
 ## Highscore
-<img src="/Images/Highscore.jpg" width=800 height=390>
+<img src="/Images/Highscore.jpg">
 
 # Testings & Results
 Testings were conducted on the 28th of September, 2019. Results were compiled and shown in the diagram below.
