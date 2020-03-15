@@ -94,3 +94,5 @@ If there are any bullets close to you, the game will prompt a *red* alert and te
 Testings were conducted on the 28th of September, 2019. Results were compiled and shown in the diagram below.
 
 <img src="Images/GEQ.PNG">
+
+As you can see from the diagram, most of the players felt *Competent, Imaginative,  Challenging,  and have overall great positive effect* from the game.
