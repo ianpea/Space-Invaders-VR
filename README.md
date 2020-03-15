@@ -91,6 +91,6 @@ If there are any bullets close to you, the game will prompt a *red* alert and te
 <img src="/Images/Highscore.jpg" width=800 height=390>
 
 # Testings & Results
-Testings were conducted on the 28th of September, 2019. REsults were compiled and shown in the diagram below.
+Testings were conducted on the 28th of September, 2019. Results were compiled and shown in the diagram below.
 
 <img src="Images/GEQ.PNG">
