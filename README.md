@@ -67,7 +67,7 @@ Main building, its rooftop is the place that the player start out on. It is more
 Normal building around the main building. It is less stable and is prone to be crushed by the alien ships.
 
 # Player View with respect to Environment
-<img src"/Images/PlayerView.png">
+<img src="/Images/PlayerView.png">
 
 # Features
 
