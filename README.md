@@ -6,11 +6,13 @@ Done by Pee Wu Jian from August 2019 - October 2019.
 
 # About
 
+<img src="/Images/MainMenu.jpg">
+
 This game is a Virtual Reality implementation of the famous 2D Top-Down game Space Invaders (1978). The player plays as a soldier who defends the city from invading alien ships at night.
 
 # Links
 
-Video Link:
+Video Link: https://youtu.be/YF8AmyCXVHU
 
 # Gameplay
 
@@ -78,8 +80,6 @@ If there are any bullets close to you, the game will prompt a *red* alert and te
 <img src="/Images/Alert_2.jpg">
 
 # Screens
-## Main Menu
-<img src="/Images/MainMenu.jpg">
           
 ## Player View
 <img src="/Images/PlayerView.jpg">
