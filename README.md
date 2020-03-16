@@ -2,7 +2,7 @@
 
 Contact: ian.peewujian@gmail.com
 
-Done by Pee Wu Jian from August 2019 - October 2019.
+Done by **Pee Wu Jian** from August 2019 - October 2019.
 
 # About
 
